@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$//.idea/modules/XArena.iml" filepath="$PROJECT_DIR$//.idea/modules/XArena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XArena_main.iml" filepath="$PROJECT_DIR$/.idea/modules/XArena_main.iml" group="XArena" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XArena_test.iml" filepath="$PROJECT_DIR$/.idea/modules/XArena_test.iml" group="XArena" />
+      <module fileurl="file://$PROJECT_DIR$//.idea/modules/game.iml" filepath="$PROJECT_DIR$//.idea/modules/game.iml" group="game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/game/game_main.iml" filepath="$PROJECT_DIR$/.idea/modules/game/game_main.iml" group="game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/game/game_test.iml" filepath="$PROJECT_DIR$/.idea/modules/game/game_test.iml" group="game" />
+      <module fileurl="file://$PROJECT_DIR$//.idea/modules/gate.iml" filepath="$PROJECT_DIR$//.idea/modules/gate.iml" group="gate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gate/gate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gate/gate_main.iml" group="gate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gate/gate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gate/gate_test.iml" group="gate" />
+    </modules>
+  </component>
+</project>
